@@ -1,0 +1,37 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 12 Oct 2021 17:29:50 at https://www.techzone10.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.techzone10.com/ -O1 "C:\Users\hasan\Downloads\blogger" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:30:49	Error: 	"Not Found" (404) at link https://www.techzone10.com/grabbing.png (from https://www.techzone10.com/)
+17:30:52	Error: 	"Not Found" (404) at link https://www.techzone10.com/p/best-deals-and-offers-of-today.html (from https://www.techzone10.com/)
+17:32:04	Error: 	"Not Found" (404) at link https://www.techzone10.com/megamenu/ (from https://www.techzone10.com/)
+17:32:04	Error: 	"Not Found" (404) at link https://www.techzone10.com/default.jpg (from https://www.techzone10.com/)
+17:32:04	Error: 	"Not Found" (404) at link https://www.techzone10.com/hqdefault.jpg (from https://www.techzone10.com/)
+17:32:04	Error: 	"Not Found" (404) at link https://www.techzone10.com/maxresdefault.jpg (from https://www.techzone10.com/)
+17:32:04	Error: 	"Not Found" (404) at link https://www.techzone10.com/mqdefault.jpg (from https://www.techzone10.com/)
+17:32:04	Error: 	"Not Found" (404) at link https://www.techzone10.com/0.jpg (from https://www.techzone10.com/)
+17:32:04	Error: 	"Not Found" (404) at link https://www.techzone10.com/p/grabbing.png (from https://www.techzone10.com/p/contact-us_13.html)
+17:32:04	Error: 	"Not Found" (404) at link https://www.techzone10.com/p/megamenu/ (from https://www.techzone10.com/p/contact-us_13.html)
+17:32:04	Error: 	"Not Found" (404) at link https://www.techzone10.com/2021/10/grabbing.png (from https://www.techzone10.com/2021/10/how-to-watch-naruto-shippuden-dub-for.html)
+17:32:05	Error: 	"Not Found" (404) at link https://www.techzone10.com/2021/10/megamenu/ (from https://www.techzone10.com/2021/10/how-to-watch-naruto-shippuden-dub-for.html)
+17:32:06	Error: 	"Not Found" (404) at link https://www.techzone10.com/2021/09/grabbing.png (from https://www.techzone10.com/2021/09/how-to-watch-money-heist-in-english-for.html)
+17:32:07	Error: 	"Not Found" (404) at link https://www.techzone10.com/2021/09/megamenu/ (from https://www.techzone10.com/2021/09/how-to-watch-money-heist-in-english-for.html)
+17:32:07	Error: 	"Not Found" (404) at link https://www.techzone10.com/2021/08/grabbing.png (from https://www.techzone10.com/2021/08/bgmi-for-ios-launched-how-to-download.html)
+17:32:09	Error: 	"Not Found" (404) at link https://www.techzone10.com/2021/08/megamenu/ (from https://www.techzone10.com/2021/08/bgmi-for-ios-launched-how-to-download.html)
+17:32:09	Error: 	"Not Found" (404) at link https://www.techzone10.com/2021/07/grabbing.png (from https://www.techzone10.com/2021/07/best-budget-wireless-ear-buds-under-5000.html)
+17:32:09	Error: 	"Not Found" (404) at link https://www.techzone10.com/2021/07/megamenu/ (from https://www.techzone10.com/2021/07/best-budget-wireless-ear-buds-under-5000.html)
+17:32:13	Error: 	"Not Found" (404) at link https://www.techzone10.com/2021/06/grabbing.png (from https://www.techzone10.com/2021/06/top-5-best-laptops-for-collegeschool.html)
+17:32:13	Error: 	"Not Found" (404) at link https://www.techzone10.com/2021/06/megamenu/ (from https://www.techzone10.com/2021/06/top-5-best-laptops-for-collegeschool.html)
+17:33:02	Error: 	"Not Found" (404) at link https://www.techzone10.com/search/label/megamenu/grabbing.png (from https://www.techzone10.com/search/label/megamenu/)
+17:33:02	Error: 	"Not Found" (404) at link https://www.techzone10.com/search/label/megamenu/megamenu/ (from https://www.techzone10.com/search/label/megamenu/)
+17:33:02	Error: 	"Not Found" (404) at link https://www.techzone10.com/2021/04/grabbing.png (from https://www.techzone10.com/2021/04/Best budget phone.html)
+17:33:03	Error: 	"Not Found" (404) at link https://www.techzone10.com/2021/04/megamenu/ (from https://www.techzone10.com/2021/04/Best budget phone.html)
+17:33:05	Error: 	"Not Found" (404) at link https://www.techzone10.com/2021/05/grabbing.png (from https://www.techzone10.com/2021/05/oneplus-9-pro-specs-price.html)
+17:33:05	Error: 	"Not Found" (404) at link https://www.techzone10.com/2021/05/megamenu/ (from https://www.techzone10.com/2021/05/oneplus-9-pro-specs-price.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 23 seconds : 205 links scanned, 178 files written (61733115 bytes overall) [25153171 bytes received at 123907 bytes/sec], 62633994 bytes transferred using HTTP compression in 157 files, ratio 22%
+(26 errors, 0 warnings, 0 messages)
